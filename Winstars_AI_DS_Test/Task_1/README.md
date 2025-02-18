@@ -10,7 +10,7 @@ The goal is to compare traditional machine learning (Random Forest) with deep le
 
 ---
 
-## 📊 Final Accuracy Scores:
+##  Final Accuracy Scores:
 | Model                   | Accuracy on MNIST |
 |-------------------------|------------------|
 | Random Forest          | 72% |
@@ -21,7 +21,7 @@ The CNN model achieves the highest accuracy, as expected for an image classifica
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### 1. Install Dependencies
 
