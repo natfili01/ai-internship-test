@@ -67,11 +67,11 @@ OR (if incorrect prediction)
 ________________________________________
  Future Fine-Tuning Options
 1. Improve Model Generalization
-✔ Apply stronger augmentation (e.g., more rotations, flips, brightness shifts) to improve performance on unseen images. ✔ Increase training epochs if necessary.
+ Apply stronger augmentation (e.g., more rotations, flips, brightness shifts) to improve performance on unseen images.  Increase training epochs if necessary.
 2. Enhance NER Model
-✔ Fine-tune the Named Entity Recognition (NER) model on a larger domain-specific dataset. ✔ Extend support for multiple animals in a sentence.
+ Fine-tune the Named Entity Recognition (NER) model on a larger domain-specific dataset. ✔ Extend support for multiple animals in a sentence.
 3. Optimize for Deployment
-✔ Convert model to TensorFlow Lite (.tflite) for mobile/edge deployment. ✔ Use model pruning/quantization to reduce size and increase inference speed.
+ Convert model to TensorFlow Lite (.tflite) for mobile/edge deployment.  Use model pruning/quantization to reduce size and increase inference speed.
 ________________________________________
  References
 •	Hugging Face Transformers for Named Entity Recognition
